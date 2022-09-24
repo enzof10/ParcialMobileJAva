@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/backgorund.xml" value="0.345" />
+        <entry key="app/src/main/res/drawable/ic_contacto.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_edit.xml" value="0.346" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_guardar.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_lista_cliente.xml" value="0.34791666666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_ver.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/create_activity.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/lista_item_cliente.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.34322916666666664" />
+        <entry key="app/src/main/res/menu/menu_clientes.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

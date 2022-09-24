@@ -1,0 +1,14 @@
+<resources>
+    <string name="txtDatos">Nuevo cliente</string>
+    <string name="hint_cliente">Cliente</string>
+    <string name="hint_clientes">Clientes</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_direccion">Direccion</string>
+    <string name="hint_dni">DNI</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Email@hotmail.com</string>
+    <string name="button_guardar">Guardar</string>
+    <string name="menu_nuevo">Nuevo</string>
+    <string name="menu_nuevo_cliente">Nuevo Cliente</string>
+</resources>
