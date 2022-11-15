@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.myapplication">
+    xmlns:tools="http://schemas.android.com/tools">
 
     <application
         android:allowBackup="true"
@@ -13,31 +12,38 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
+
         <activity
             android:name=".VerActivity"
             android:exported="false"
             android:label="Cliente"
-            android:parentActivityName=".ClientesActivity"
-            />
+            android:parentActivityName=".ClientesActivity" />
         <activity
             android:name=".EditarActivity"
             android:exported="false"
             android:label="Cliente"
-            android:parentActivityName=".VerActivity"
-            />
+            android:parentActivityName=".VerActivity" />
         <activity
             android:name=".ClientesActivity"
             android:exported="false"
-            android:parentActivityName=".MainActivity"
-            android:label="Clientes" />
+            android:label="Clientes"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".CreateActivityActivity"
-            android:parentActivityName=".ClientesActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".ClientesActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="Inicio">
+            android:label="Parcial">
+        </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
